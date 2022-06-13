@@ -9,3 +9,4 @@ I've tested it with Python 3.9, no other dependencies necessary.
 - example.py: the example that is used throughout
 - vintage.py: original simplified QuickCheck-like implementation, without shrinking
 - vintage_shrink.py: original simplified QuickCheck-like implementation, with shrinking
+- integrated.py: integrated random generation and shrinking, like Clojure's test.check and Hedgehog
